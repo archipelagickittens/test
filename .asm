@@ -4,3 +4,4 @@
 ; old factor: JSON, Haskell, C, C++, Lua, Rust
 
 ; .msk .asyk
+; misaki assemblyk
